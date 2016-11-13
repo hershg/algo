@@ -1,2 +1,2 @@
-My experiments with algorithms in C++
+Experimental programs in C++
 
